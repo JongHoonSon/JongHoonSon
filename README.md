@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=22b8cf&height=250&section=header&fontColor=e3fafc&text=JongHoonSon's%20Github&fontSize=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=22b8cf&height=200&section=header&fontColor=e3fafc&text=JongHoonSon's%20Github&fontSize=40&fontAlignY=33)
 
 <div align="center">
 
-👋 Hi, I'm Junior front-end developer
+### 👋 Hi, I'm Junior front-end developer
 
-✏ I'm Learning
+### ✏ I'm Learning
 
 
 
