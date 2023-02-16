@@ -5,14 +5,21 @@
 ### 👋 Hi, I'm Junior front-end developer
 
 </br>
-  
-### Tech Stack
+
+## 💻 Tech Stack
+
+<div>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" /> 
+</div>
+
+</br>
 
 <div>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/pug-%23A86454.svg?&style=for-the-badge&logo=pug&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
 <div>
@@ -21,15 +28,29 @@
   <img src="https://img.shields.io/badge/redux-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
+</br>
+
 <div>
   <img src="https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
   
+</br>
+  
 <div>
   <img src="https://img.shields.io/badge/aws-%23232F3E.svg?&style=for-the-badge&logo=amazon%20aws&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx-%23269539.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+</div>
+
+</br>
+</br>
+
+## 📫 How to reach me
+
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<div>
+  roka1684@gmail.com
 </div>
 
 </br>
